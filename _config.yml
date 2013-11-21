@@ -1,0 +1,5 @@
+exclude: ['Gemfile', 'Gemfile.lock', 'README.md']
+
+name: Jack Lalley
+markdown: redcarpet
+pygments: true
